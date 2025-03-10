@@ -117,7 +117,7 @@ pip install -r requirements.txt
 
 or install dependencies via pip:
 ```bash
-pip install pdfplumber jieba rank_bm25 ckip-transformers torch numpy pandas tqdm scikit-learn
+pip install pdfplumber jieba torch numpy pandas tqdm scikit-learn statsmodels xgboost
 ```
 
 Make sure to adjust package versions if necessary.
