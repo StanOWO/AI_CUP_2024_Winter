@@ -16,7 +16,7 @@ Additionally, the repository includes an overall project report called **report.
 
 - [Repository Structure](#repository-structure)
 - [Competitions Overview](#competitions-overview)
-  - [Power Generation Prediction Competition](#power-generation-prediction-competition)
+  - [Competition to Predict Power Generation from Regional Microclimate Data](#competition-to-predict-power-generation-from-regional-microclimate-data)
   - [YuShan AI Public Challenge – RAG & LLM in Financial Q&A](#yushan-ai-public-challenge--rag--llm-in-financial-qa)
 - [Installation and Dependencies](#installation-and-dependencies)
 - [Usage Instructions](#usage-instructions)
@@ -57,7 +57,7 @@ AI_CUP_2024_Winter/
 
 ## Competitions Overview
 
-### Power Generation Prediction Competition
+### Competition to Predict Power Generation from Regional Microclimate Data
 
 **Objective:**  
 Predict the 10-minute average power generation (in mW) of solar panels using microclimate data collected from 17 sites over approximately 2000 days. The data includes:
@@ -165,10 +165,14 @@ Make sure to adjust package versions if necessary.
 
 Reference the overall **report.pdf** for detailed analysis, competition results, and insights.
 
-
-
 ---
 
+## Rank
+
+- **Competition to Predict Power Generation from Regional Microclimate Data**: 35/934
+- **YuShan AI Public Challenge – RAG & LLM in Financial Q&A**: 60/218
+
+---
 ## Contact
 
 For questions or contributions, please contact:  
