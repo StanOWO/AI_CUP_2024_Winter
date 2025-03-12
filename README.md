@@ -21,6 +21,7 @@ Additionally, the repository includes an overall project report called **report.
 - [Installation and Dependencies](#installation-and-dependencies)
 - [Usage Instructions](#usage-instructions)
 - [Results and Evaluation](#results-and-evaluation)
+- [Rank](#rank)
 - [Contact](#contact)
 
 ---
